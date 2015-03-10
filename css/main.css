@@ -7,16 +7,71 @@
     height: 1900px;
     padding: 20px;
     margin: 0 auto;
-    border: 1px solid #FDC9BB;
+    /*border: 1px solid #FDC9BB;*/
     background-color: white;
     position: relative;
 }
 
-.header {
+.header{
     width: 900px;
     padding: 20px;
-    border: 1px solid black;
+    /*border: 1px solid black;*/
     margin: 0 auto;
     position: relative;
-    height: 75px;
+    height: 10px;
+}
+
+.banner{
+    width:1373px;
+    margin-left: -200px;
+    margin-right: 0px;
+    position: absolute;
+}
+
+.price{
+    width: 900px;
+    padding: 20px;
+    border: 1px double #b2b2b2;
+    margin: 0 auto;
+    height: 140px;
+    position: relative;
+    margin-top: 200px;
+}
+
+.citypass{
+    height:150px;
+    width: auto;
+    margin-top: -5px;
+    clear:both;
+    float:left;
+}
+
+.price2{
+    font-size: 20px;
+    color:#000066;
+    float: left;
+    padding-left: 100px;
+    padding-right: 120px;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.amount{
+    font-size: 25px;
+    color:orange;
+    padding-left: 20px;
+}
+
+.button2{
+    padding : 10px 10px;
+    border: 1px solid #000066;
+    text-decoration: none;
+    border-radius: 5px;
+    background-color: #000066;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 50px;
 }
