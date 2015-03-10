@@ -1,0 +1,54 @@
+p, .menu, .menu1{
+	font-size: 13px;
+	color: #b2b2b2;
+}
+
+h4{
+	margin-top: 2px;
+	opacity: 0.5;
+}
+
+.social{
+	display: block;
+	margin-bottom: 5px;
+	clear: both;
+	float:left;
+}
+
+.about1, .about2, .about3, .about4, .about5{
+	float:left;
+	padding-top: 3px;
+	padding-right: 45px;
+	padding-left: 45px;
+}
+
+.menu{
+	text-decoration: none;
+	display: block;
+	color:#b2b2b2;
+	line-height: 24px;
+}
+
+.footer {
+    width: 980px;
+    height: 170px;
+    padding: 20px;
+    margin: 0 auto;
+    position: bottom;
+    padding-bottom: 5px;
+    border: 1px solid #FDC9BB;
+}
+
+.menu1{
+	text-decoration: none;
+	color:#b2b2b2;
+	display: inline;
+}
+
+.p2{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 5px;
+	float:left;
+}
+

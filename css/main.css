@@ -1,0 +1,22 @@
+*{
+    font-family: Trebuchet MS;
+}
+
+.center{
+    width: 980px;
+    height: 1900px;
+    padding: 20px;
+    margin: 0 auto;
+    border: 1px solid #FDC9BB;
+    background-color: white;
+    position: relative;
+}
+
+.header {
+    width: 900px;
+    padding: 20px;
+    border: 1px solid black;
+    margin: 0 auto;
+    position: relative;
+    height: 75px;
+}
