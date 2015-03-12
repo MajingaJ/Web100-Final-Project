@@ -4,7 +4,7 @@
 
 .center{
     width: 980px;
-    height: 1900px;
+    height: 1720px;
     padding: 20px;
     margin: 0 auto;
     /*border: 1px solid #FDC9BB;*/
@@ -162,7 +162,7 @@
     border: 1px double #b2b2b2;
     margin: 0 auto;
     position: relative;
-    height: 380px;
+    height: 400px;
 }
 
 .works7{
@@ -171,9 +171,47 @@
     font-size: 15px;
 }
 
+.div5{
+    width: 500px;
+    margin: 0 auto;
+    clear: both;
+    float: left;
+}
+
+.div6{
+    width: 300px;
+    margin: 0 auto;
+    float:left;
+    margin-top: 60px;
+
+}
+
+.img3{
+    width: 400px;
+    height: auto;
+}
+
 .works8{
     color:#000066;
     text-align: center;
     font-size: 15px;
+}
+
+.gallery{
+    width: 900px;
+    padding: 10px 20px 10px 20px;
+    border: 1px double #b2b2b2;
+    margin: 0 auto;
+    position: relative;
+    height: 500px;
+}
+
+.banner2{
+    width:1373px;
+    margin-left: -200px;
+    margin-right: 0px;
+    margin-top: 5px;
+    position: absolute;
+    height:200px
 }
 
