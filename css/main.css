@@ -183,7 +183,6 @@
     margin: 0 auto;
     float:left;
     margin-top: 60px;
-
 }
 
 .img3{
@@ -213,5 +212,47 @@
     margin-top: 5px;
     position: absolute;
     height:200px
+}
+
+.banner3{
+    width:1373px;
+    margin-left: -200px;
+    margin-right: 0px;
+    margin-top: 5px;
+    position: absolute;
+    height:200px;
+}
+
+.header{
+    margin-top: -20px;
+}
+
+.works9{
+    margin: 0 auto;
+    width: 900px;
+    padding: 10px 20px 10px 20px;
+    border: 1px double #b2b2b2;
+    height: 15px;
+    position: relative;
+    background-color: #b2b2b2;
+}
+
+.works10{
+    width: 900px;
+    padding: 10px 20px 10px 20px;
+    border: 1px double #b2b2b2;
+    margin: 0 auto;
+    position: relative;
+    height: 350px;
+}
+
+.center2{
+    width: 980px;
+    height: 1700px;
+    padding: 20px;
+    margin: 0 auto;
+    /*border: 1px solid #FDC9BB;*/
+    background-color: white;
+    position: relative;
 }
 
