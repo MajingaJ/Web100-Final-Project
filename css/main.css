@@ -141,7 +141,7 @@
     margin: 0 auto;
     clear: both;
     float: left;
-    margin-top: 50px;
+    margin-top: 30px;
 }
 
 .div4{
@@ -255,4 +255,51 @@
     background-color: white;
     position: relative;
 }
+
+.img4{
+    width:300px;
+    height: auto;
+    margin-top: -20px;
+}
+
+.works11{
+    width: 900px;
+    padding: 10px 20px 10px 20px;
+    border: 1px double #b2b2b2;
+    margin: 0 auto;
+    position: relative;
+    height: 200px;
+}
+
+.img4{
+    width:300px;
+    height: auto;
+    margin-top: -20px;
+}
+
+.div7{
+    width: 600px;
+    margin: 0 auto;
+    clear:both;
+    float:left;
+}
+
+.works5{
+    width: 900px;
+    padding: 10px 20px 10px 20px;
+    border: 1px double #b2b2b2;
+    margin: 0 auto;
+    position: relative;
+    height: 240px;
+}
+
+.div8{
+    width:300px;
+    margin: 0 auto;
+    clear: both;
+    float: left;
+    margin-top: 5px;
+}
+
+
 
